@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=khushalshimpi&show_icons=true&theme=dark&locale=en" alt="khushalshimpi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalshimpi&show_icons=true&theme=dark&locale=en&layout=compact" alt="rushikeshadhav" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalshimpi&show_icons=true&theme=dark&locale=en&layout=compact" alt="khushalshimpi" /></td>
   </tr>
 </table>
 
