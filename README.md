@@ -1,16 +1,16 @@
 ### Hi there, I'm Khushal Shimpi 👋
 
-  🔭 I’m currently a Computer Engineering student
+  💼 Software Engineer at Ness Digital Engineering with 2+ years of experience in full-stack development.
 
-  🌱 I’m learning Web Development
+  💻 Skilled in Java, Spring Boot, Microservices, REST APIs, Angular, and Cloud deployment (AWS).
   
-  👯 I’m looking to collaborate on Open Source, YouTube
+  🚀 Passionate about building scalable, high-performance applications and solving complex business problems.
   
-  📫 How to reach me: khushalshimpi1102@gmail.com
+  🌱 Continuously learning and exploring modern web technologies, DevOps practices, and Generative AI.
   
-  😄 Pronouns: he/him
+  🤝 Open to collaboration on open-source projects and knowledge sharing.
   
-  ⚡ Fun fact: The bravest thing I've ever done was give a product demonstration to a live audience of over one thousand people.
+  📫 Reach me at: khushalshimpi1102@gmail.com
   
   **languages and tools:**  
 
