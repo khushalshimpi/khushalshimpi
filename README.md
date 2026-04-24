@@ -1,6 +1,6 @@
 ### Hi there, I'm Khushal Shimpi 👋
 
-  💼 Software Engineer at Ness Digital Engineering with 2+ years of experience in full-stack development.
+  💼 Software Engineer at Ness Digital Engineering with 3+ years of experience in full-stack development.
 
   💻 Skilled in Java, Spring Boot, Microservices, REST APIs, Angular, and Cloud deployment (AWS).
   
